@@ -1,5 +1,14 @@
 # 🤖 AI Resume Screener
 
+<p align="left">
+
+![Python](https://img.shields.io/badge/Python-Blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-success)
+
+</p>
+
 <p align="center">
   <img src="ai-resume-screener-home.png" alt="AI Resume Screener" width="100%">
 </p>
@@ -27,12 +36,14 @@ An AI-powered resume screening system that analyzes resumes, matches them with j
 
 ## 🛠️ Tech Stack
 
-- Python
-- Streamlit
-- Pandas
-- NumPy
-- Scikit-learn
-- JSON
+- **Programming Language:** Python
+- **Framework:** Streamlit
+- **Machine Learning:** Scikit-learn
+- **Natural Language Processing (NLP):** spaCy, NLTK
+- **Data Processing:** Pandas, NumPy
+- **Data Visualization:** Plotly
+- **PDF Processing:** PyMuPDF
+- **Report Generation:** ReportLab
 
 ---
 
@@ -56,12 +67,13 @@ AI-Resume-Screener/
 
 ## 🔮 Future Improvements
 
-- 👤 User Authentication
-- 📄 Support for DOCX resumes
-- 🤖 LLM integration (Gemini/OpenAI)
-- 📥 Export reports as PDF
-- 📊 Compare multiple resumes
-- ☁️ Cloud database integration
+- Support DOCX and additional resume formats
+- AI-powered resume improvement suggestions
+- Recruiter login and dashboard
+- Resume history and analytics
+- ATS compatibility checking
+- Export reports in PDF format
+- Integration with Gemini/OpenAI APIs
 
 ---
 
@@ -101,6 +113,15 @@ pip install -r requirements.txt
 ```bash
 streamlit run streamlit_app.py
 ```
+
+## ▶️ Usage
+
+1. Launch the Streamlit application.
+2. Upload one or more resumes in PDF format.
+3. Enter the job description.
+4. Click **Analyze**.
+5. View resume scores, candidate rankings, skill gaps, and visual insights.
+
 
 ## 📄 License
 
