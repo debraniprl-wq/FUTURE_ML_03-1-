@@ -8,7 +8,7 @@ An AI-powered resume screening system that analyzes resumes, matches them with j
 
 ## 🚀 Live Demo
 
-🔗 https://futureml03-wbcm7xwasqfv8jkngwgxv4.streamlit.app/
+🔗 **Live Demo:** [Open AI Resume Screener](https://futureml03-wbcm7xwasqfv8jkngwgxv4.streamlit.app/)
 
 ---
 
