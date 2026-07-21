@@ -1,5 +1,9 @@
 # 🤖 AI Resume Screener
 
+<p align="center">
+  <img src="ai-resume-screener-home.png" alt="AI Resume Screener" width="100%">
+</p>
+
 An AI-powered resume screening system that analyzes resumes, matches them with job descriptions, ranks candidates based on relevance, identifies skill gaps, and provides visual insights to streamline the hiring process.
 
 ## 🚀 Live Demo
