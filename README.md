@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-Blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-success)
+![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-blueviolet)
 
 </p>
 
